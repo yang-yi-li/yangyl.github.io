@@ -12,7 +12,7 @@ github_repo: "https://github.com/yang-yi-li/yangyl.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "平凡有点梦想,渴望让世界因我而不一样"
-sidebar-avatar: /img/      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/WechatIMG303.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
